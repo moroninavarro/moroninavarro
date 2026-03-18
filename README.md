@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
+
 # <Your Name Here>
 
 Hello, GitHub! 👋
@@ -41,7 +41,6 @@ I'm <Your Name Here>, a student at Brigham Young University-Idaho interested in 
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](Your LinkedIn Profile Link) profile
-- Here is my [Twitter](Your Twitter Profile Link) profile
+- Here is my [LinkedIn](www.linkedin.com/in/moroni-alanis-navarro-2485bb2b9) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
