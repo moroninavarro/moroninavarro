@@ -44,6 +44,10 @@ Proficient in:
   
 A web application that provides useful tools for board games, including a chess timer, a 3D dice simulator and a stopwatch. Built with HTML, CSS, and JavaScript, featuring interactive UI elements and real-time functionality.
 
+- Real Estate Website
+  
+Design and developed a responsive real state website, displaying land, houses and apartments. Implemented clean layouts, navigation and user-friendly interfaces using HTML, CSS and JavaScript.
+
 - FlashCards App (In Progress)
   
 Currently developing a flashcards application using IntelliJ IDEA and Kotlin to improve my knowledge and logic skills.
