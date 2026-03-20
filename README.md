@@ -20,10 +20,15 @@ Software Development student with experience in web development and programming.
 Welcome to my GitHub profile!
 
 ## About Me
-
-- I'm currently learning more about Kotlin and I will create a FlashCards app
-- My goals are to improve my programming skills
-
+I'm a student at BYU-Idaho and I'm currently learning more about Kotlin to create a FlashCards App using Android Studio.
+One of my goals is to become a professional Mobile Application Developer and continue learning modern technologies.
+I have Proficient in:
+- Python
+- C#
+- Kotlin
+- MySQL
+- JavaScript
+- HTML5 & CSS3
 
 ## Technologies and Tools
 - Git & GitHub
@@ -32,19 +37,18 @@ Welcome to my GitHub profile!
 - Google Chrome (DevTools debugging)
 - Firefox (testing & compatibility)
 
+## Projects and Work
+- Board Game Toolkit
+A web application that provides useful tools for board games, including a chess timer, a 3D dice simulator and a stopwatch. Built with HTML, CSS, and JavaScript, featuring interactive UI elements and real-time functionality.
 
-## Proficient in:
-- Python
-- C#
-- Kotlin
-- MySQL
-- JavaScript
-- HTML5 & CSS3
+- FlashCards App (In Progress)
+Currently developing a flashcards application using IntelliJ IDEA and Kotlin to improve my knowledge and logic skills.
 
-  
+
+
 ## Skills:
 - Problem Solving & Debugging
-- Fronted & Backend Web Development
+- Frontend & Backend Web Development
 - API Consumption
 - DOM Manipulation
 - Event Handling
