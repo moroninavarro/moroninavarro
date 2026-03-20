@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 <!--
-**moroninavarro/moroninavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -22,11 +21,10 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-# <Your Name Here>
 
 Hello, GitHub! 👋
 
-I'm <Your Name Here>, a student at Brigham Young University-Idaho interested in <Your Profession/Interests such as: computer science, data science, web development, machine learning, ...>. Welcome to my GitHub profile!
+I'm Moroni Alanis, a student at Brigham Young University-Idaho interested in <Software Development such as: computer science, data science, web development, machine learning, ...>. Welcome to my GitHub profile!
 
 ## About Me
 
