@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moroninavarro&show_icons=true)
 
 
 
@@ -70,6 +70,3 @@ Currently developing a flashcards application using IntelliJ IDEA and Kotlin to 
 - Here is my [LinkedIn](www.linkedin.com/in/moroni-alanis-navarro-2485bb2b9) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moroninavarro&show_icons=true)
