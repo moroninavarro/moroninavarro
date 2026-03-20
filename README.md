@@ -14,8 +14,9 @@
 
 Hello, GitHub! 👋
 
-I'm Moroni Alanis
-Software Development student with experience in web development and programming. Skilled in problem solving, debugging, and building responsive applications using modern technologies. Detail-oriented with a strong focus on writing efficient code and continuously improving technical skills
+I'm Moroni Alanis! 
+Software Development student with experience in web development and programming. Skilled in problem solving, debugging, and building responsive applications using modern technologies. Detail-oriented with a strong focus on writing efficient code and continuously improving technical skills.
+
 Welcome to my GitHub profile!
 
 ## About Me
@@ -25,17 +26,31 @@ Welcome to my GitHub profile!
 
 
 ## Technologies and Tools
+- Git & GitHub
+- Visual Studio Code
+- IntelliJ IDEA
+- Google Chrome (DevTools debugging)
+- Firefox (testing & compatibility)
+
+
 Proficient in:
-- JavaScript, HTML, CSS, Python, C#, Kotlin, MySQL
+- Python
+- C#
+- Kotlin
+- MySQL
+- JavaScript
+- HTML5 & CSS3
 
   
 Skills:
 - Problem Solving & Debugging
-- Web Development (Frontend & Backend)
-- SQL & Database Management
-- HTML5, CSS3 & JavaScript
-- Programming languages: Python, C#, Kotlin
-- Attention to Detail 
+- Fronted & Backend Web Development
+- API Consumption
+- DOM Manipulation
+- Event Handling
+- Responsive Design
+- Object-Oriented Programming (OOP)
+- Version Control (Git & GitHub)
 
 
 ## Let's Connect!
