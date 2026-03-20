@@ -1,20 +1,12 @@
 ## Hi there 👋
 
-<!--
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -28,14 +20,30 @@ I'm Moroni Alanis, a student at Brigham Young University-Idaho interested in <So
 
 ## About Me
 
-- I'm currently learning ...
-- My goals are to ...
-- Ask me about ...
+- I'm currently learning more about Kotlin and I will create a FlashCards app
+- My goals are to improve my programming skills
+
 
 ## Technologies and Tools
 
-- Proficient in: <List of Programming Languages or Technologies>
-- Skills: <Any Other Skills or Tools You Want to Highlight>
+- Proficient in:
+•	JavaScript
+•	HTML
+•	CSS
+•	Python
+•	C#
+•	Kotlin
+•	MySQL
+
+  
+- Skills:
+•	 Problem Solving & Debugging
+•	Web Development (Frontend & Backend)
+•	SQL & Database Management
+•	HTML5, CSS3 & JavaScript
+•	Programming languages: Python, C#, Kotlin
+•	Attention to Detail 
+
 
 ## Let's Connect!
 
