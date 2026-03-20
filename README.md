@@ -16,7 +16,9 @@
 
 Hello, GitHub! 👋
 
-I'm Moroni Alanis, a student at Brigham Young University-Idaho interested in <Software Development such as: computer science, data science, web development, machine learning, ...>. Welcome to my GitHub profile!
+I'm Moroni Alanis
+Software Development student with experience in web development and programming. Skilled in problem solving, debugging, and building responsive applications using modern technologies. Detail-oriented with a strong focus on writing efficient code and continuously improving technical skills
+Welcome to my GitHub profile!
 
 ## About Me
 
@@ -27,22 +29,15 @@ I'm Moroni Alanis, a student at Brigham Young University-Idaho interested in <So
 ## Technologies and Tools
 
 - Proficient in:
-•	JavaScript
-•	HTML
-•	CSS
-•	Python
-•	C#
-•	Kotlin
-•	MySQL
-
+JavaScript, HTML, CSS, Python, C#, Kotlin, MySQL
   
 - Skills:
-•	 Problem Solving & Debugging
-•	Web Development (Frontend & Backend)
-•	SQL & Database Management
-•	HTML5, CSS3 & JavaScript
-•	Programming languages: Python, C#, Kotlin
-•	Attention to Detail 
+- Problem Solving & Debugging
+- Web Development (Frontend & Backend)
+- SQL & Database Management
+- HTML5, CSS3 & JavaScript
+- Programming languages: Python, C#, Kotlin
+- Attention to Detail 
 
 
 ## Let's Connect!
