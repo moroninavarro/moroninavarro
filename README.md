@@ -24,7 +24,7 @@ I'm a student at BYU-Idaho and I'm currently learning more about Kotlin to creat
 One of my goals is to become a professional Mobile Application Developer and continue learning modern technologies.  
 
 
-I have Proficient in:
+Proficient in:
 - Python
 - C#
 - Kotlin
@@ -41,6 +41,7 @@ I have Proficient in:
 
 ## Projects and Work
 - Board Game Toolkit
+  
 A web application that provides useful tools for board games, including a chess timer, a 3D dice simulator and a stopwatch. Built with HTML, CSS, and JavaScript, featuring interactive UI elements and real-time functionality.
 
 - FlashCards App (In Progress)
