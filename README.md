@@ -21,7 +21,9 @@ Welcome to my GitHub profile!
 
 ## About Me
 I'm a student at BYU-Idaho and I'm currently learning more about Kotlin to create a FlashCards App using Android Studio.
-One of my goals is to become a professional Mobile Application Developer and continue learning modern technologies.
+One of my goals is to become a professional Mobile Application Developer and continue learning modern technologies.  
+
+
 I have Proficient in:
 - Python
 - C#
