@@ -2,9 +2,7 @@
 
 
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -27,11 +25,11 @@ Welcome to my GitHub profile!
 
 
 ## Technologies and Tools
+Proficient in:
+- JavaScript, HTML, CSS, Python, C#, Kotlin, MySQL
 
-- Proficient in:
-JavaScript, HTML, CSS, Python, C#, Kotlin, MySQL
   
-- Skills:
+Skills:
 - Problem Solving & Debugging
 - Web Development (Frontend & Backend)
 - SQL & Database Management
@@ -41,7 +39,7 @@ JavaScript, HTML, CSS, Python, C#, Kotlin, MySQL
 
 
 ## Let's Connect!
-
+- 📫 How to reach me:
 - Here is my [LinkedIn](www.linkedin.com/in/moroni-alanis-navarro-2485bb2b9) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
