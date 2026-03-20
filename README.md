@@ -41,9 +41,11 @@ Proficient in:
 
 ## Projects and Work
 - Board Game Toolkit
+  
 A web application that provides useful tools for board games, including a chess timer, a 3D dice simulator and a stopwatch. Built with HTML, CSS, and JavaScript, featuring interactive UI elements and real-time functionality.
 
 - FlashCards App (In Progress)
+  
 Currently developing a flashcards application using IntelliJ IDEA and Kotlin to improve my knowledge and logic skills.
 
 
