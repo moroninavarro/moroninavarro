@@ -33,7 +33,7 @@ Welcome to my GitHub profile!
 - Firefox (testing & compatibility)
 
 
-Proficient in:
+## Proficient in:
 - Python
 - C#
 - Kotlin
@@ -42,7 +42,7 @@ Proficient in:
 - HTML5 & CSS3
 
   
-Skills:
+## Skills:
 - Problem Solving & Debugging
 - Fronted & Backend Web Development
 - API Consumption
